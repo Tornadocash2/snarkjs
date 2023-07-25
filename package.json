@@ -25,7 +25,7 @@
     "license": "GPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://git.tornado.ws/tornado-packages/snarkjs"
+        "url": "https://github.com/Tornadocash2/snarkjs.git"
     },
     "dependencies": {
         "big-integer": "^1.6.43",
